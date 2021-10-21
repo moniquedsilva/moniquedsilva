@@ -30,8 +30,6 @@ Skills: :computer:
 
 Projetos :floppy_disk:
 
-Github: https://github.com/moniquedsilva
-
 Gitlab: https://gitlab.com/moniquedsilva
 
 E-mail: moniquesntsilva@gmail.com
