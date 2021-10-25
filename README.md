@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 hello
 I'm Monique Silva, Computer Science student at the Universidade Federal da Bahia (UFBA) 🎓.
 
-I am currently a volunteer at InfoJr UFBA, where I am a Front-End developer and member of Management and People. 💚
+I am currently a volunteer at InfoJr UFBA, where I am a Front-End developer and member. 💚
 
 I have been working with web development using the latest technologies, creating the interface according to the prototype and following good programming practices.
 
