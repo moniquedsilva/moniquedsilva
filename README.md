@@ -1,4 +1,4 @@
-### Olá 👋
+### Hello World 👋
 
 <!--
 **moniquedsilva/moniquedsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá. Sou Monique Santos, estudante de Ciência da Computação na Universidade Federal da Bahia (UFBA) :mortar_board:.
+hello
+I'm Monique Silva, Computer Science student at the Universidade Federal da Bahia (UFBA) 🎓.
 
-Atualmente sou voluntária na InfoJr UFBA - Empresa Júnior de Informática da UFBA, onde sou desenvolvedora Front-End e membro da diretoria de Gestão e Pessoas. :green_heart:
+I am currently a volunteer at InfoJr UFBA, where I am a Front-End developer and member of Management and People. 💚
 
-Tenho trabalhado com o desenvolvimento de websites usando as tecnologias web mais recentes, criação da interface de acordo com o protótipo e adepta das boas práticas na programação.
+I have been working with web development using the latest technologies, creating the interface according to the prototype and following good programming practices.
 
 Skills: :computer:
 - HTML, CSS, Javascript
