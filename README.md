@@ -27,3 +27,5 @@ Skills: :computer:
 - ReactJS, NextJS
 - TailwindCSS, Material UI, Styled-components, SASS
 - Git
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniquedsilva&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
