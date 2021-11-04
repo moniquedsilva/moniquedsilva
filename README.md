@@ -28,4 +28,4 @@ Skills: :computer:
 - TailwindCSS, Material UI, Styled-components, SASS
 - Git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniquedsilva&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniquedsilva&layout=compact&theme=github_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
