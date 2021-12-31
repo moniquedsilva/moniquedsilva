@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 
 🎓 I'm CS student, front-end developer and CSS enthusiast.
+
 ⚡ I’m currently working on personal projects and [Frontend Mentor challenges](https://www.frontendmentor.io/profile/moniquedsilva).
+
 📚 I’m currently learning [Vue](https://vuejs.org/).
+
 📫 How to reach me: [Twitter](https://twitter.com/moniquesdsilva) or [LinkedIn](https://www.linkedin.com/in/moniquesilva95/).
+
 🌸 When I'm not coding I'm certainly playing Stardew Valley or watching Kdrama.
 
 ---
