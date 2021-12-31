@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hi there 👋
 
 <!--
 **moniquedsilva/moniquedsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hello
-I'm Monique Silva, Computer Science student at the Universidade Federal da Bahia (UFBA) 🎓.
+🎓 I'm CS student, front-end developer and CSS enthusiast.
+⚡ I’m currently working on personal projects and [Frontend Mentor challenges](https://www.frontendmentor.io/profile/moniquedsilva).
+📚 I’m currently learning [Vue](https://vuejs.org/).
+📫 How to reach me: [Twitter](https://twitter.com/moniquesdsilva) or [LinkedIn](https://www.linkedin.com/in/moniquesilva95/).
+🌸 When I'm not coding I'm certainly playing Stardew Valley or watching Kdrama.
 
-I am currently a volunteer at InfoJr UFBA, where I am a Front-End developer and member. 💚
-
-I have been working with web development using the latest technologies, creating the interface according to the prototype and following good programming practices.
-
-Skills: :computer:
-- HTML, CSS, Javascript
-- ReactJS, NextJS
-- TailwindCSS, Material UI, Styled-components, SASS
-- Git
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniquedsilva&layout=compact&theme=github_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
