@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 🎓 I'm CS student, front-end developer and CSS enthusiast.
 
-📚 I’m currently learning [Python](https://www.python.org/) and [Nuxt](https://nuxtjs.org/)
+🔭 I’m currently working at [Escavador](https://www.escavador.com/)
+
+📚 I’m currently learning [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/)
 
 📫 How to reach me: [Twitter](https://twitter.com/moniquesdsilva) or [LinkedIn](https://www.linkedin.com/in/moniquesilva95/).
-
-🌸 When I'm not coding I'm certainly playing Stardew Valley or watching Kdrama.
 
 ---
 
