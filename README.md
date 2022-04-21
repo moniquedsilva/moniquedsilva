@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I'm CS student, front-end developer and CSS enthusiast.
+🎓 I'm a computer science student, front-end developer and CSS enthusiast.
 
 📚 I’m currently learning [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/)
 
