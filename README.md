@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there)](https://git.io/typing-svg)
 
 <!--
 **moniquedsilva/moniquedsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I'm a computer science student, front-end developer and CSS enthusiast.
-
-📫 How to reach me: [Twitter](https://twitter.com/moniquesdsilva) or [LinkedIn](https://www.linkedin.com/in/moniquesilva95/).
+- I'm a computer science student at [UFBA](https://bcc.ufba.br/)
+- Front-end developer working with [Vue](https://vuejs.org/) and [TailwindCSS](https://tailwindcss.com/)
+- I'm currently interested in Vue ecosystem
+- I like taking on [Frontend Mentor](https://www.frontendmentor.io/profile/moniquedsilva) challenges from time to time.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniquedsilva&layout=compact&theme=github_dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moniquedsilva&show_icons=true&theme=transparent&hide=stars&rank_icon=github&custom_title=Monique+Stats&card_width=400&hide_border=true&text_color=889696&title_color=36BCF7FF&icon_color=36BCF7FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniquedsilva&layout=compact&theme=transparent&langs_count=6&card_width=400&hide_border=true&text_color=889696&title_color=36BCF7FF" />
+</div>
